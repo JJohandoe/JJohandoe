@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from China</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Bilibili-To-Raindrop](https://github.com/AHCorn/Bilibili-To-Raindrop)<br><br>- 🌱 I’m currently learning **HTML**
+- 🔭 I’m currently working on [Bilibili-To-Raindrop](https://github.com/AHCorn/Bilibili-To-Raindrop)
+
+- 🌱 I’m currently learning **HTML**
 
 
 # 💻 Tech Stack:
