@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Bilibili-to-raindrop](https://github.com/AHCorn/Bilibili-To-Raindrop)
+- 🔭 I’m currently working on [Bilibili-To-Raindrop](https://github.com/AHCorn/Bilibili-To-Raindrop)
 
 - 🌱 I’m currently learning **HTML**
 
